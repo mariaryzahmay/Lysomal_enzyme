@@ -48,11 +48,11 @@ The amino acid sequence of human lysosomal acid glucosylceramidase (GBA1) was re
 | Protein length | 536 amino acids |
 | Potential N-glycosylation motifs | 5 |
 
-Table 2 summarizes the results of the GBA1 protein sequence analysis. The protein consists of 536 amino acids and contains five potential N-glycosylation motifs. These motifs follow the N-X-S/T sequence pattern, in which X represents any standard amino acid except proline. Their presence indicates possible sites for N-linked glycosylation, although sequence analysis alone cannot confirm whether these sites are actually glycosylated.
+Table 2. The GBA1 protein sequence analysis showed that the protein is 536 amino acids long and contains five potential N-glycosylation motifs. These motifs follow the N-X-S/T pattern, where X is any amino acid except proline, and they mark possible sites of N-linked glycosylation. However, sequence analysis alone cannot confirm that these sites are actually glycosylated
 
 ## 2.2. Amino Acid Composition
 
-The amino acid composition of the GBA1 protein was analyzed to determine the frequency and percentage of each of the 20 standard amino acids in its sequence.
+The amino acid composition of GBA1 was calculated from its protein sequence by counting each of the 20 standard amino acids and expressing each count as a percentage of the total 536 residues. This profile shows which residues are most and least abundant and provides a basis for interpreting the protein’s overall properties, such as hydrophobicity and charge.
 
 **Table 3. Five Most Abundant Amino Acids in the Human GBA1 Protein**
 
@@ -68,7 +68,8 @@ Table 3 presents the five most abundant amino acids in the human GBA1 protein. L
 
 **Figure 1. Amino Acid Composition of GBA1**
 
-[Insert the generated GBA1_amino_acid_composition.png here.]
+<img width="1590" height="875" alt="IMG_3189" src="https://github.com/user-attachments/assets/ce13d00d-7bfa-4e1e-9aee-fd10108074fb" />
+
 
 Figure 1. Amino Acid Composition of the Human GBA1 Protein. The bar graph illustrates the distribution of the 20 standard amino acids in the 536-amino-acid sequence of human lysosomal acid glucosylceramidase (GBA1). The x-axis represents the amino acids using their one-letter codes, while the y-axis indicates the number of residues.
 
@@ -92,7 +93,8 @@ Table 4 presents the positions and sequences of the five potential N-glycosylati
 
 **Figure 2. Potential N-Glycosylation Motifs in GBA1**
 
-[Insert the generated GBA1_potential_N_glycosylation.png here.]
+<img width="2360" height="1387" alt="IMG_3188" src="https://github.com/user-attachments/assets/db3bca0a-7c95-4407-9126-098c93120ab9" />
+
 
 Figure 2. Distribution of Potential N-Glycosylation Motifs in the Human GBA1 Protein. The horizontal line represents the 536-amino-acid protein sequence, while the markers indicate the starting positions of the five potential N-glycosylation motifs.
 
